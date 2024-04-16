@@ -1,8 +1,9 @@
-# Proyecto
+# Repositorio de Proyectos: Sistemas de Información Geográfica 
+
 ## Evaluación Integrada de Vulnerabilidad Social y Exposición a Inundaciones en el Municipio de Macuspana
 
 Objetivo General
-Evaluar la vulnerabilidad social y la exposición a inundaciones del municipio de Macuspana a nivel de manzanas utilizando herramientas de código abierto en Python.
+- Evaluar la vulnerabilidad social y la exposición a inundaciones del municipio de Macuspana a nivel de manzanas.
 
 Objetivos Específicos
 - Identificar y categorizar las zonas del municipio de Macuspana que presentan una mayor vulnerabilidad social ante eventos de inundación, considerando factores socioeconómicos y demográficos.
